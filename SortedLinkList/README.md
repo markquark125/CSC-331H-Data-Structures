@@ -10,3 +10,8 @@ I will update as need but below is a simple implementation of the class.
 - Insert is sorted.
 
 The code is commented; will update if needed.
+
+
+### BUG
+* With assignment operator, we need to check if the lengths are accurate; the list is destroyed but \
+is the length returned to 0 or is it unchanged? 
